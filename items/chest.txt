@@ -1,0 +1,116 @@
+5
+~
+:Chestplate
+:Keeps your body protected.
+:metal
+	Type:6
+        Health
+                L:0
+                H:0
+        Attack
+                L:0
+                H:0
+        Defense
+                L:5
+                H:10
+        Accuracy
+                L:-1
+                H:0
+        Evasion
+                L:-2
+                H:0
+        Range
+                L:0
+                H:0
+~
+:Gambeson
+:Padded armor just for you!
+:cloth
+        Type:6
+        Health
+                L:0
+                H:0
+        Attack
+                L:0
+                H:0
+        Defense
+                L:4
+                H:8
+        Accuracy
+                L:0
+                H:0
+        Evasion
+                L:0
+                H:1
+        Range
+                L:0
+                H:1
+~
+:Chain Mail
+:Clattering but protective.
+:metal
+        Type:6
+        Health
+                L:0
+                H:0
+        Attack
+                L:0
+                H:0
+        Defense
+                L:5
+                H:8
+        Accuracy
+                L:0
+                H:0
+        Evasion
+                L:-2
+                H:0
+        Range
+                L:0
+                H:0
+~
+:Tunic
+:Basically clothing, but aids somewhat.
+:cloth
+        Type:6
+        Health
+                L:0
+                H:0
+        Attack
+                L:0
+                H:0
+        Defense
+                L:0
+                H:2
+        Accuracy
+                L:1
+                H:3
+        Evasion
+                L:1
+                H:3
+        Range
+                L:0
+                H:2
+~
+:Cloak
+:May catch the stray blade.
+:cloth
+        Type:5
+        Health
+                L:0
+                H:0
+        Attack
+                L:0
+                H:0
+        Defense
+                L:2
+                H:4
+        Accuracy
+                L:-2
+                H:0
+        Evasion
+                L:3
+                H:6
+        Range
+                L:-1
+                H:0

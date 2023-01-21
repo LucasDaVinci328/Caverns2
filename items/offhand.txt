@@ -1,0 +1,118 @@
+5
+~
+:Shield
+:Protects alot.
+:metal
+	Type:1
+        Health
+                L:0
+                H:0
+        Attack
+                L:0
+                H:0
+        Defense
+                L:3
+                H:8
+        Accuracy
+                L:-1
+                H:0
+        Evasion
+                L:0
+                H:0
+        Range
+                L:-1
+                H:0
+~
+:Buckler
+:Protects the essentials.
+:metal
+	Type:1
+        Health
+                L:0
+                H:0
+        Attack
+                L:0
+                H:0
+        Defense
+                L:3
+                H:8
+        Accuracy
+                L:0
+                H:1
+        Evasion
+                L:1
+                H:3
+        Range
+                L:0
+                H:0
+~
+:Tome
+:Book lined with runes.
+:cloth
+	Type:2
+        Health
+                L:0
+                H:0
+        Attack
+                L:0
+                H:0
+        Defense
+                L:3
+                H:8
+        Accuracy
+                L:-1
+                H:0
+        Evasion
+                L:0
+                H:0
+        Range
+                L:-1
+                H:0
+~
+:Scabbard
+:Keeps your blade sharp.
+:cloth
+	Type:3
+        Health
+                L:0
+                H:0
+        Attack
+                L:2
+                H:6
+        Defense
+                L:0
+                H:0
+        Accuracy
+                L:1
+                H:3
+        Evasion
+                L:-1
+                H:0
+        Range
+                L:0
+                H:0
+~
+:Quiver
+:Finally, somewhere to keep your arrows.
+:cloth
+	Type:3
+        Health
+                L:0
+                H:0
+        Attack
+                L:1
+                H:3
+        Defense
+                L:0
+                H:0
+        Accuracy
+                L:3
+                H:6
+        Evasion
+                L:0
+                H:0
+        Range
+                L:2
+                H:7
+
+

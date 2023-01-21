@@ -1,0 +1,118 @@
+5
+~
+:Bracelet
+:Magic is within.
+:metal
+	Type:1
+        Health
+                L:0
+                H:1
+        Attack
+                L:0
+                H:2
+        Defense
+                L:0
+                H:2
+        Accuracy
+                L:0
+                H:1
+        Evasion
+                L:0
+                H:1
+        Range
+                L:0
+                H:2
+~
+:Necklace
+:Interesting choice to store this near your neck.
+:metal
+	Type:1
+        Health
+                L:0
+                H:3
+        Attack
+                L:0
+                H:1
+        Defense
+                L:0
+                H:1
+        Accuracy
+                L:0
+                H:2
+        Evasion
+                L:0
+                H:2
+        Range
+                L:0
+                H:0
+~
+:Ring
+:A single band with intricate designs.
+:metal
+	Type:1
+        Health
+                L:0
+                H:3
+        Attack
+                L:1
+                H:4
+        Defense
+                L:0
+                H:3
+        Accuracy
+                L:-1
+                H:1
+        Evasion
+                L:-1
+                H:1
+        Range
+                L:-1
+                H:2
+~
+:Doll
+:If it weren't for the screaming face, it would be comforting.
+:cloth
+	Type:1
+        Health
+                L:-1
+                H:2
+        Attack
+                L:-1
+                H:2
+        Defense
+                L:-1
+                H:2
+        Accuracy
+                L:-1
+                H:2
+        Evasion
+                L:-1
+                H:2
+        Range
+                L:-1
+                H:2
+~
+:Totem
+:Mini statue with a carved face.
+:cloth
+	Type:1
+        Health
+                L:1
+                H:3
+        Attack
+                L:-1
+                H:0
+        Defense
+                L:1
+                H:4
+        Accuracy
+                L:0
+                H:0
+        Evasion
+                L:2
+                H:5
+        Range
+                L:0
+                H:0
+
+

@@ -1,0 +1,141 @@
+6
+~
+:Helm
+:Keep your gnoggin. 
+:metal
+	Type:3
+	Health
+		L:0
+		H:0
+	Attack
+		L:0
+		H:0
+	Defense
+		L:2
+		H:5
+	Accuracy
+		L:-1
+		H:0
+	Evasion
+		L:0
+		H:0
+	Range
+		L:0
+		H:0
+~
+:Hood
+:Hide in the darkness.
+:cloth
+	Type:3
+	Health
+		L:0
+		H:0
+	Attack
+		L:0
+		H:0
+	Defense
+		L:0
+		H:0
+	Accuracy
+		L:0
+		H:0
+	Evasion
+		L:2
+		H:4
+	Range
+		L:1
+		H:2
+~
+:Goggles
+:Protects your eyes from glare.
+:metal
+	Type:4
+        Health
+                L:0
+                H:0
+        Attack
+                L:0
+                H:0
+        Defense
+                L:0
+                H:0
+        Accuracy
+                L:4
+                H:7
+        Evasion
+                L:1
+                H:3
+        Range
+                L:2
+                H:3
+~
+:Hat
+:Wide brim and good for covering your head.
+:cloth
+	Type:3
+        Health
+                L:0
+                H:0
+        Attack
+                L:0
+                H:1
+        Defense
+                L:0
+                H:1
+        Accuracy
+                L:3
+                H:5
+        Evasion
+                L:3
+                H:5
+        Range
+                L:2
+                H:3
+~
+:Mask
+:Conceals your face from foes.
+:cloth
+	Type:4
+        Health
+                L:0
+                H:0
+        Attack
+                L:0
+                H:0
+        Defense
+                L:0
+                H:0
+        Accuracy
+                L:-2
+                H:2
+        Evasion
+                L:4
+                H:7
+        Range
+                L:-2
+                H:0
+~
+:Cap
+:Small and fragile.
+:metal
+	Type:4
+        Health
+                L:0
+                H:0
+        Attack
+                L:0
+                H:0
+        Defense
+                L:1
+                H:3
+        Accuracy
+                L:0
+                H:1
+        Evasion
+                L:0
+                H:0
+        Range
+                L:0
+                H:0
+
+

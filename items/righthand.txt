@@ -1,0 +1,186 @@
+8
+~
+:Longsword
+:Long and stabby.
+:metal
+	Type:1
+        Health
+                L:0
+                H:0
+        Attack
+                L:4
+                H:9
+        Defense
+                L:0
+                H:0
+        Accuracy
+                L:2
+                H:4
+        Evasion
+                L:1
+                H:2
+        Range
+                L:0
+                H:1
+~
+:Shortsword
+:Accurate but weak.
+:metal
+	Type:1
+        Health
+                L:0
+                H:0
+        Attack
+                L:2
+                H:5
+        Defense
+                L:0
+                H:1
+        Accuracy
+                L:4
+                H:7
+        Evasion
+                L:1
+                H:2
+        Range
+                L:0
+                H:0
+~
+:Halberd
+:Long handled ending in an axe-like head.
+:metal
+	Type:1
+        Health
+                L:0
+                H:0
+        Attack
+                L:3
+                H:6
+        Defense
+                L:0
+                H:0
+        Accuracy
+                L:0
+                H:0
+        Evasion
+                L:-2
+                H:0
+        Range
+                L:2
+                H:4
+~
+:Spear
+:Sharp stick, find out what it does.
+:metal
+	Type:1
+        Health
+                L:0
+                H:0
+        Attack
+                L:2
+                H:5
+        Defense
+                L:0
+                H:0
+        Accuracy
+                L:4
+                H:6
+        Evasion
+                L:0
+                H:1
+        Range
+                L:1
+                H:3
+~
+:Bow
+:Shoot enemies from a distance.
+:cloth
+	Type:2
+        Health
+                L:0
+                H:0
+        Attack
+                L:2
+                H:6
+        Defense
+                L:0
+                H:0
+        Accuracy
+                L:2
+                H:4
+        Evasion
+                L:-2
+                H:0
+        Range
+                L:4
+                H:9
+~
+:Crossbow
+:Steampunk has gone too far.
+:metal
+	Type:2
+        Health
+                L:0
+                H:0
+        Attack
+                L:3
+                H:6
+        Defense
+                L:0
+                H:0
+        Accuracy
+                L:1
+                H:3
+        Evasion
+                L:-3
+                H:0
+        Range
+                L:3
+                H:7
+~
+:Battleaxe
+:Two axes are better than one.
+:metal
+	Type:1
+ 	Health
+                L:0
+                H:0
+        Attack
+                L:7
+                H:12
+        Defense
+                L:0
+                H:1
+        Accuracy
+                L:-3
+                H:-1
+        Evasion
+                L:-2
+                H:0
+        Range
+                L:0
+                H:1
+~
+:Dagger
+:Short and stabby.
+:metal
+	Type:1
+ 	Health
+               	L:0
+               	H:0
+        Attack
+        	L:3
+               	H:7
+        Defense
+              	L:0
+               	H:0
+        Accuracy
+               	L:4
+               	H:8
+        Evasion
+         	L:0
+               	H:0
+        Range
+               	L:-1
+               	H:0
+
