@@ -1,0 +1,1380 @@
+50
+~
+name:stripes
+limb:skin
+        Health
+                L:0
+                H:0
+        Attack
+                L:0
+                H:0
+        Defense
+                L:0
+                H:0
+        Accuracy
+                L:0
+                H:0
+        Evasion
+                L:5
+                H:8
+        Range
+                L:0
+                H:0
+	Jumping
+		L:0
+		H:0
+	Climbing? 0
+	Flying? 0
+~
+name:spots
+limb:skin
+        Health
+                L:0
+                H:0
+        Attack
+                L:0
+                H:0
+        Defense
+                L:0
+                H:0
+        Accuracy
+                L:0
+                H:0
+        Evasion
+                L:4
+                H:7
+        Range
+                L:0
+                H:0
+	Jumping
+		L:0
+		H:0
+	Climbing? 0
+	Flying? 0
+~
+name:war paint
+limb:face
+        Health
+                L:0
+                H:0
+        Attack
+                L:0
+                H:0
+        Defense
+                L:0
+                H:0
+        Accuracy
+                L:4
+                H:6
+        Evasion
+                L:0
+                H:0
+        Range
+                L:0
+                H:0
+	Jumping
+		L:0
+		H:0
+	Climbing? 0
+	Flying? 0
+~
+name:claws
+limb:paws
+        Health
+                L:0
+                H:0
+        Attack
+                L:3
+                H:4
+        Defense
+                L:0
+                H:0
+        Accuracy
+                L:0
+                H:0
+        Evasion
+                L:0
+                H:0
+        Range
+                L:0
+                H:0
+	Jumping
+		L:0
+		H:0
+	Climbing? 0
+	Flying? 0
+~
+name:dust
+limb:skin
+        Health
+                L:0
+                H:0
+        Attack
+                L:0
+                H:0
+        Defense
+                L:3
+                H:4
+        Accuracy
+                L:0
+                H:0
+        Evasion
+                L:0
+                H:0
+        Range
+                L:2
+                H:4
+	Jumping
+		L:0
+		H:0
+	Climbing? 0
+	Flying? 0
+~
+name:spikes
+limb:elbows
+        Health
+                L:0
+                H:0
+        Attack
+                L:4
+                H:6
+        Defense
+                L:2
+                H:3
+        Accuracy
+                L:0
+                H:0
+        Evasion
+                L:0
+                H:0
+        Range
+                L:0
+                H:0
+	Jumping
+		L:0
+		H:0
+	Climbing? 0
+	Flying? 0
+~
+name:mandibles
+limb:face
+        Health
+                L:0
+                H:0
+        Attack
+                L:4
+                H:6
+        Defense
+                L:0
+                H:0
+        Accuracy
+                L:0
+                H:0
+        Evasion
+                L:0
+                H:0
+        Range
+                L:0
+                H:0
+	Jumping
+		L:0
+		H:0
+	Climbing? 0
+	Flying? 0
+~
+name:gills
+limb:neck
+        Health
+                L:3
+                H:5
+        Attack
+                L:0
+                H:0
+        Defense
+                L:0
+                H:0
+        Accuracy
+                L:0
+                H:0
+        Evasion
+                L:0
+                H:0
+        Range
+                L:0
+                H:0
+	Jumping
+		L:0
+		H:0
+	Climbing? 0
+	Flying? 0
+~
+name:sunburn
+limb:skin
+        Health
+                L:-3
+                H:-1
+        Attack
+                L:0
+                H:0
+        Defense
+                L:0
+                H:0
+        Accuracy
+                L:0
+                H:0
+        Evasion
+                L:4
+                H:6
+        Range
+                L:0
+                H:0
+	Jumping
+		L:0
+		H:0
+	Climbing? 0
+	Flying? 0
+~
+name:external ears
+limb:head
+        Health
+                L:0
+                H:0
+        Attack
+                L:0
+                H:0
+        Defense
+                L:0
+                H:0
+        Accuracy
+                L:3
+                H:5
+        Evasion
+                L:0
+                H:0
+        Range
+                L:0
+                H:0
+	Jumping
+		L:0
+		H:0
+	Climbing? 0
+	Flying? 0
+
+~
+name:compound eyes
+limb:face
+        Health
+                L:0
+                H:0
+        Attack
+                L:0
+                H:0
+        Defense
+                L:0
+                H:0
+        Accuracy
+                L:4
+                H:6
+        Evasion
+                L:1
+                H:2
+        Range
+                L:2
+                H:3
+	Jumping
+		L:0
+		H:0
+	Climbing? 0
+	Flying? 0
+
+~
+name:claws
+limb:hands
+        Health
+                L:0
+                H:0
+        Attack
+                L:3
+                H:5
+        Defense
+                L:0
+                H:0
+        Accuracy
+                L:1
+                H:2
+        Evasion
+                L:0
+                H:0
+        Range
+                L:0
+                H:0
+	Jumping
+		L:0
+		H:0
+	Climbing? 0
+	Flying? 0
+name:wings
+limb:back
+        Health
+                L:0
+                H:1
+        Attack
+                L:0
+                H:0
+        Defense
+                L:-1
+                H:0
+        Accuracy
+                L:0
+                H:0
+        Evasion
+                L:1
+                H:2
+        Range
+                L:0
+                H:0
+	Jumping
+		L:1
+		H:3
+	Climbing? 0
+	Flying? 1
+~
+name:horns
+limb:head
+        Health
+                L:0
+                H:0
+        Attack
+                L:3
+                H:7
+        Defense
+                L:3
+                H:7
+        Accuracy
+                L:0
+                H:0
+        Evasion
+                L:0
+                H:0
+        Range
+                L:0
+                H:0
+	Jumping
+		L:0
+		H:0
+	Climbing? 0
+	Flying? 0
+~
+name:sticky pads
+limb:fingers
+        Health
+                L:0
+                H:0
+        Attack
+                L:0
+                H:0
+        Defense
+                L:0
+                H:0
+        Accuracy
+                L:2
+                H:5
+        Evasion
+                L:0
+                H:0
+        Range
+                L:0
+                H:0
+	Jumping
+		L:0
+		H:0
+	Climbing? 1
+	Flying? 0
+~
+name:fangs
+limb:jaw
+        Health
+                L:0
+                H:0
+        Attack
+                L:3
+                H:6
+        Defense
+                L:0
+                H:0
+        Accuracy
+                L:-1
+                H:2
+        Evasion
+                L:0
+                H:0
+        Range
+                L:0
+                H:0
+	Jumping
+		L:0
+		H:0
+	Climbing? 0
+	Flying? 0
+~
+name:venom
+limb:fangs
+        Health
+                L:0
+                H:0
+        Attack
+                L:5
+                H:10
+        Defense
+                L:0
+                H:0
+        Accuracy
+                L:2
+                H:2
+        Evasion
+                L:0
+                H:0
+        Range
+                L:0
+                H:0
+	Jumping
+		L:0
+		H:0
+	Climbing? 0
+	Flying? 0
+~
+name:webs
+limb:spinnerets
+        Health
+                L:0
+                H:0
+        Attack
+                L:0
+                H:0
+        Defense
+                L:0
+                H:0
+        Accuracy
+                L:5
+                H:10
+        Evasion
+                L:0
+                H:0
+        Range
+                L:1
+                H:2
+	Jumping
+		L:0
+		H:0
+	Climbing? 0
+	Flying? 0
+~
+name:quills
+limb:back
+        Health
+                L:0
+                H:0
+        Attack
+                L:2
+                H:4
+        Defense
+                L:2
+                H:4
+        Accuracy
+                L:0
+                H:0
+        Evasion
+                L:0
+                H:0
+        Range
+                L:0
+                H:0
+	Jumping
+		L:0
+		H:0
+	Climbing? 0
+	Flying? 0
+~
+name:spines
+limb:ribs
+        Health
+                L:0
+                H:0
+        Attack
+                L:3
+                H:5
+        Defense
+                L:3
+                H:6
+        Accuracy
+                L:0
+                H:0
+        Evasion
+                L:0
+                H:0
+        Range
+                L:0
+                H:0
+	Jumping
+		L:0
+		H:0
+	Climbing? 0
+	Flying? 0
+~
+name:scales
+limb:skin
+        Health
+                L:0
+                H:0
+        Attack
+                L:0
+                H:0
+        Defense
+                L:7
+                H:10
+        Accuracy
+                L:0
+                H:0
+        Evasion
+                L:0
+                H:0
+        Range
+                L:0
+                H:0
+	Jumping
+		L:0
+		H:0
+	Climbing? 0
+	Flying? 0
+~
+name:shell
+limb:back
+        Health
+                L:0
+                H:0
+        Attack
+                L:0
+                H:0
+        Defense
+                L:8
+                H:12
+        Accuracy
+                L:0
+                H:0
+        Evasion
+                L:-3
+                H:-1
+        Range
+                L:0
+                H:0
+	Jumping
+		L:0
+		H:0
+	Climbing? 0
+	Flying? 0
+~
+name:club
+limb:tail
+        Health
+                L:0
+                H:0
+        Attack
+                L:2
+                H:4
+        Defense
+                L:0
+                H:0
+        Accuracy
+                L:0
+                H:0
+        Evasion
+                L:0
+                H:0
+        Range
+                L:2
+                H:3
+	Jumping
+		L:0
+		H:0
+	Climbing? 0
+	Flying? 0
+~
+name:tongue
+limb:mouth
+        Health
+                L:0
+                H:0
+        Attack
+                L:1
+                H:2
+        Defense
+                L:0
+                H:0
+        Accuracy
+                L:3
+                H:4
+        Evasion
+                L:0
+                H:0
+        Range
+                L:2
+                H:3
+	Jumping
+		L:0
+		H:0
+	Climbing? 0
+	Flying? 0
+~
+name:propeller
+limb:head
+        Health
+                L:0
+                H:0
+        Attack
+                L:0
+                H:0
+        Defense
+                L:0
+                H:0
+        Accuracy
+                L:0
+                H:0
+        Evasion
+                L:0
+                H:0
+        Range
+                L:0
+                H:0
+	Jumping
+		L:0
+		H:0
+	Climbing? 0
+	Flying? 1
+~
+name:fat
+limb:body
+        Health
+                L:5
+                H:10
+        Attack
+                L:0
+                H:0
+        Defense
+                L:0
+                H:0
+        Accuracy
+                L:0
+                H:0
+        Evasion
+                L:0
+                H:0
+        Range
+                L:0
+                H:0
+	Jumping
+		L:0
+		H:0
+	Climbing? 0
+	Flying? 0
+~
+name:toxin
+limb:blood
+        Health
+                L:1
+                H:2
+        Attack
+                L:0
+                H:0
+        Defense
+                L:2
+                H:4
+        Accuracy
+                L:0
+                H:0
+        Evasion
+                L:0
+                H:0
+        Range
+                L:0
+                H:0
+	Jumping
+		L:0
+		H:0
+	Climbing? 0
+	Flying? 0
+~
+name:bloodshot
+limb:eyes
+        Health
+                L:0
+                H:0
+        Attack
+                L:0
+                H:0
+        Defense
+                L:0
+                H:0
+        Accuracy
+                L:-1
+                H:0
+        Evasion
+                L:3
+                H:6
+        Range
+                L:1
+                H:2
+	Jumping
+		L:0
+		H:0
+	Climbing? 0
+	Flying? 0
+~
+name:beak
+limb:mouth
+        Health
+                L:0
+                H:0
+        Attack
+                L:2
+                H:5
+        Defense
+                L:0
+                H:0
+        Accuracy
+                L:0
+                H:0
+        Evasion
+                L:0
+                H:0
+        Range
+                L:0
+                H:0
+	Jumping
+		L:0
+		H:0
+	Climbing? 0
+	Flying? 0
+~
+name:gears
+limb:leg
+        Health
+                L:0
+                H:0
+        Attack
+                L:0
+                H:0
+        Defense
+                L:0
+                H:0
+        Accuracy
+                L:0
+                H:0
+        Evasion
+                L:0
+                H:0
+        Range
+                L:0
+                H:0
+	Jumping
+		L:1
+		H:2
+	Climbing? 1
+	Flying? 0
+~
+name:pincers
+limb:arms
+        Health
+                L:0
+                H:0
+        Attack
+                L:3
+                H:4
+        Defense
+                L:0
+                H:0
+        Accuracy
+                L:3
+                H:4
+        Evasion
+                L:0
+                H:0
+        Range
+                L:0
+                H:0
+	Jumping
+		L:0
+		H:0
+	Climbing? 0
+	Flying? 0
+~
+name:iridophores
+limb:skin
+        Health
+                L:0
+                H:0
+        Attack
+                L:0
+                H:0
+        Defense
+                L:0
+                H:0
+        Accuracy
+                L:0
+                H:0
+        Evasion
+                L:5
+                H:8
+        Range
+                L:0
+                H:0
+	Jumping
+		L:0
+		H:0
+	Climbing? 0
+	Flying? 0
+~
+name:chromatophores
+limb:skin
+        Health
+                L:0
+                H:0
+        Attack
+                L:0
+                H:0
+        Defense
+                L:0
+                H:0
+        Accuracy
+                L:0
+                H:0
+        Evasion
+                L:8
+                H:10
+        Range
+                L:0
+                H:0
+	Jumping
+		L:0
+		H:0
+	Climbing? 0
+	Flying? 0
+~
+name:nose
+limb:face
+        Health
+                L:0
+                H:0
+        Attack
+                L:0
+                H:0
+        Defense
+                L:0
+                H:0
+        Accuracy
+                L:4
+                H:6
+        Evasion
+                L:0
+                H:0
+        Range
+                L:0
+                H:0
+	Jumping
+		L:0
+		H:0
+	Climbing? 0
+	Flying? 0
+~
+name:focus
+limb:eyes
+        Health
+                L:0
+                H:0
+        Attack
+                L:0
+                H:0
+        Defense
+                L:0
+                H:0
+        Accuracy
+                L:4
+                H:6
+        Evasion
+                L:0
+                H:0
+        Range
+                L:2
+                H:3
+	Jumping
+		L:0
+		H:0
+	Climbing? 0
+	Flying? 0
+~
+name:hair
+limb:head
+        Health
+                L:1
+                H:3
+        Attack
+                L:0
+                H:0
+        Defense
+                L:1
+                H:2
+        Accuracy
+                L:0
+                H:0
+        Evasion
+                L:0
+                H:0
+        Range
+                L:0
+                H:0
+	Jumping
+		L:0
+		H:0
+	Climbing? 0
+	Flying? 0
+~
+name:thagomizer
+limb:tail
+        Health
+                L:0
+                H:0
+        Attack
+                L:2
+                H:4
+        Defense
+                L:2
+                H:4
+        Accuracy
+                L:0
+                H:0
+        Evasion
+                L:0
+                H:0
+        Range
+                L:1
+                H:2
+	Jumping
+		L:0
+		H:0
+	Climbing? 0
+	Flying? 0
+~
+name:blubber
+limb:body
+        Health
+                L:5
+                H:10
+        Attack
+                L:0
+                H:0
+        Defense
+                L:3
+                H:6
+        Accuracy
+                L:0
+                H:0
+        Evasion
+                L:0
+                H:0
+        Range
+                L:0
+                H:0
+	Jumping
+		L:0
+		H:0
+	Climbing? 0
+	Flying? 0
+~
+name:fire
+limb:mouth
+        Health
+                L:0
+                H:0
+        Attack
+                L:5
+                H:7
+        Defense
+                L:0
+                H:0
+        Accuracy
+                L:1
+                H:4
+        Evasion
+                L:0
+                H:0
+        Range
+                L:5
+                H:10
+	Jumping
+		L:0
+		H:0
+	Climbing? 0
+	Flying? 0
+~
+name:glue
+limb:pores
+        Health
+                L:0
+                H:0
+        Attack
+                L:0
+                H:0
+        Defense
+                L:0
+                H:0
+        Accuracy
+                L:6
+                H:10
+        Evasion
+                L:0
+                H:0
+        Range
+                L:3
+                H:5
+	Jumping
+		L:0
+		H:0
+	Climbing? 0
+	Flying? 0
+~
+name:antler
+limb:head
+        Health
+                L:0
+                H:0
+        Attack
+                L:2
+                H:4
+        Defense
+                L:5
+                H:7
+        Accuracy
+                L:0
+                H:0
+        Evasion
+                L:0
+                H:0
+        Range
+                L:0
+                H:0
+	Jumping
+		L:0
+		H:0
+	Climbing? 0
+	Flying? 0
+~
+name:hook
+limb:hand
+        Health
+                L:0
+                H:0
+        Attack
+                L:0
+                H:1
+        Defense
+                L:0
+                H:0
+        Accuracy
+                L:0
+                H:0
+        Evasion
+                L:0
+                H:0
+        Range
+                L:0
+                H:0
+	Jumping
+		L:0
+		H:0
+	Climbing? 1
+	Flying? 0
+~
+name:regeneration
+limb:arms
+        Health
+                L:3
+                H:8
+        Attack
+                L:0
+                H:0
+        Defense
+                L:1
+                H:2
+        Accuracy
+                L:0
+                H:0
+        Evasion
+                L:0
+                H:0
+        Range
+                L:0
+                H:0
+	Jumping
+		L:0
+		H:0
+	Climbing? 0
+	Flying? 0
+~
+name:sap
+limb:organs
+        Health
+                L:3
+                H:5
+        Attack
+                L:0
+                H:0
+        Defense
+                L:4
+                H:7
+        Accuracy
+                L:0
+                H:0
+        Evasion
+                L:0
+                H:0
+        Range
+                L:0
+                H:0
+	Jumping
+		L:0
+		H:1
+	Climbing? 0
+	Flying? 0
+~
+name:spurs
+limb:foot
+        Health
+                L:0
+                H:0
+        Attack
+                L:3
+                H:5
+        Defense
+                L:1
+                H:3
+        Accuracy
+                L:0
+                H:0
+        Evasion
+                L:0
+                H:0
+        Range
+                L:0
+                H:0
+	Jumping
+		L:0
+		H:0
+	Climbing? 0
+	Flying? 0
+~
+name:electroreception
+limb:bill
+        Health
+                L:0
+                H:0
+        Attack
+                L:0
+                H:0
+        Defense
+                L:0
+                H:0
+        Accuracy
+                L:4
+                H:6
+        Evasion
+                L:0
+                H:0
+        Range
+                L:0
+                H:0
+	Jumping
+		L:0
+		H:0
+	Climbing? 0
+	Flying? 0
+~
+name:tusks
+limb:mouth
+        Health
+                L:0
+                H:0
+        Attack
+                L:4
+                H:6
+        Defense
+                L:0
+                H:0
+        Accuracy
+                L:0
+                H:0
+        Evasion
+                L:0
+                H:0
+        Range
+                L:0
+                H:0
+	Jumping
+		L:0
+		H:0
+	Climbing? 0
+	Flying? 0
+~
+name:fur
+limb:skin
+        Health
+                L:0
+                H:0
+        Attack
+                L:0
+                H:0
+        Defense
+                L:2
+                H:5
+        Accuracy
+                L:0
+                H:0
+        Evasion
+                L:2
+                H:4
+        Range
+                L:0
+                H:0
+	Jumping
+		L:0
+		H:0
+	Climbing? 0
+	Flying? 0
+~
+name:webbing
+limb:feet
+        Health
+                L:0
+                H:0
+        Attack
+                L:0
+                H:0
+        Defense
+                L:0
+                H:0
+        Accuracy
+                L:0
+                H:0
+        Evasion
+                L:0
+                H:0
+        Range
+                L:1
+                H:2
+	Jumping
+		L:1
+		H:2
+	Climbing? 1
+	Flying? 0
+~
+name:pores
+limb:skin
+        Health
+                L:2
+                H:4
+        Attack
+                L:0
+                H:0
+        Defense
+                L:-1
+                H:0
+        Accuracy
+                L:0
+                H:0
+        Evasion
+                L:0
+                H:0
+        Range
+                L:0
+                H:0
+	Jumping
+		L:0
+		H:0
+	Climbing? 0
+	Flying? 0
+~
+name:pimples
+limb:face
+        Health
+                L:-2
+                H:-1
+        Attack
+                L:0
+                H:0
+        Defense
+                L:0
+                H:0
+        Accuracy
+                L:0
+                H:0
+        Evasion
+                L:2
+                H:4
+        Range
+                L:0
+                H:0
+	Jumping
+		L:0
+		H:0
+	Climbing? 0
+	Flying? 0
+~
+name:iridescence
+limb:skin
+        Health
+                L:0
+                H:0
+        Attack
+                L:0
+                H:0
+        Defense
+                L:0
+                H:0
+        Accuracy
+                L:0
+                H:0
+        Evasion
+                L:4
+                H:6
+        Range
+                L:0
+                H:0
+	Jumping
+		L:0
+		H:0
+	Climbing? 0
+	Flying? 0
+~
+name:feathers
+limb:skin
+        Health
+                L:0
+                H:0
+        Attack
+                L:0
+                H:0
+        Defense
+                L:3
+                H:4
+        Accuracy
+                L:0
+                H:0
+        Evasion
+                L:2
+                H:4
+        Range
+                L:0
+                H:0
+	Jumping
+		L:0
+		H:0
+	Climbing? 0
+	Flying? 0
